@@ -1,0 +1,47 @@
+body{
+	font-family: 'Cinzel', serif;
+}
+
+header{
+	background: url("../img/hamburgueria-header.jpg");
+	min-height: 550px;
+	
+}
+header .col-header{
+	color: white;
+}
+header nav .nav-header li a{
+	color: white;
+}
+header .col-header p{
+	font-size: 20px;
+}
+
+/*SECTION*/
+section h2{
+	text-align: center;
+}
+section img{
+	border-radius: 20%;
+}
+/*Cards*/
+
+section .card .card-body .precio{
+	font-size: 19px;
+	font-weight: bolder;
+	text-align: center;
+}
+section .card .card-body{
+	background: #C9CCCF;
+}
+
+/*FOOTER*/
+footer{
+	background: black;
+	padding: 25px;
+}
+
+footer p{
+	color: white;
+	text-align: center;
+}
